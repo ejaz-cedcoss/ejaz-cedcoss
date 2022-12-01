@@ -1,10 +1,10 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
-### Hola, I'm Anmol Baranwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
+### Hola, I'm MD EJAZ ALAM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
- My name is Anmol Baranwal and I am a web developer with solid skills in User Interface design. <br>
+ My name is MD EJAZ ALAM and I am a web developer with solid skills in User Interface design. <br>
  I 🎓 am completing my Bachelor of Technology in the field of computer science.
 
 - 🔥 I'm currently exploring Front End Technologies.
