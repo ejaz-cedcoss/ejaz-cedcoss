@@ -20,7 +20,7 @@
 
 <br><br>
 
-| ![MD EJAZ ALAM github stats](https://github-readme-stats.vercel.app/api?username=ejaz-cedcoss&show_icons=true&theme=tokyonight) | ![MD EJAZ ALAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaz-cedcoss&theme=tokyonight) |
+| ![MD EJAZ ALAM github stats](https://github-readme-stats.vercel.app/api?username=ejaz-cedcoss&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight) | ![MD EJAZ ALAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaz-cedcoss&count_private=true&include_all_commits=true&theme=tokyonight) |
 | --- | --- |
 <!--
  👋
