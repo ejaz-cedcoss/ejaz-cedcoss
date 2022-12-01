@@ -13,14 +13,14 @@
 <hr>
 <h1> Wanna Talk? Connect me Here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75"> </h1>
 <a href="https://www.linkedin.com/in/heyanmolbaranwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dribbble.com/Anmol_Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+
 <hr>
 <h3>😎 If you loved my work! Support me Here</h3>
 <a href="https://www.buymeacoffee.com/heyanmol"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 <br><br>
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal&show_icons=true&theme=tokyonight) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight) |
+| ![MD EJAZ ALAM github stats](https://github-readme-stats.vercel.app/api?username=ejaz-cedcoss&show_icons=true&theme=tokyonight) | ![MD EJAZ ALAM GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaz-cedcoss&theme=tokyonight) |
 | --- | --- |
 <!--
  👋
