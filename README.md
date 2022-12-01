@@ -16,7 +16,7 @@
 
 <hr>
 <h3>😎 If you loved my work! Support me Here</h3>
-<a href="[https://www.buymeacoffee.com/heyanmol](https://www.buymeacoffee.com/kingejaz143?new=1)"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="[https://www.buymeacoffee.com/heyanmol]"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 <br><br>
 
